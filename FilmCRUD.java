@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-import java.util.InputMismatchException;
-import java.util.Scanner;
+import java.util.ArrayList; // Mengimpor kelas ArrayList dari paket java.util
+import java.util.InputMismatchException; // Mengimpor kelas InputMismatchException untuk menangkap kesalahan input yang tidak sesuai
+import java.util.Scanner; // Mengimpor kelas Scanner dari paket java.util untuk mengambil input dari pengguna
 
 // Kelas Film merepresentasikan entitas film dengan atribut id, judul, genre, dan rating
 class Film {
